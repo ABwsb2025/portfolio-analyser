@@ -38,7 +38,7 @@ examples/          Synthetic sample data
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/<your-username>/portfolio-analyser.git
+git clone https://github.com/ABwsb2025/portfolio-analyser.git
 cd portfolio-analyser
 pip install -r requirements.txt
 
