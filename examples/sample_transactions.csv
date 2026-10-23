@@ -1,0 +1,13 @@
+Action,Time,ISIN,Ticker,Name,Notes,ID,No. of shares,Price / share,Currency (Price / share),Exchange rate,Result,Currency (Result),Total,Currency (Total),Withholding tax,Currency (Withholding tax),Stamp duty reserve tax,Currency (Stamp duty reserve tax),Currency conversion fee,Currency (Currency conversion fee)
+Deposit,2025-01-06 09:00:00,,,,,DEP001,,,,,,,1000.00,GBP,,,,,,
+Market buy,2025-01-06 09:05:12,IE00BK5BQT80,VWRP,Vanguard FTSE All-World (Acc),,TX001,4.0000000000,11000.00,GBX,1.00000000,,,440.00,GBP,,,,,,
+Market buy,2025-01-06 09:06:40,IE00BFMXYX26,VJPB,Vanguard FTSE Japan (Acc),,TX002,6.0000000000,3000.00,GBX,1.00000000,,,180.00,GBP,,,,,,
+Market buy,2025-01-06 14:35:02,US0378331005,AAPL,Apple,,TX003,0.6000000000,240.00,USD,1.25000000,,,115.20,GBP,,,,,0.17,GBP
+Deposit,2025-02-03 09:00:00,,,,,DEP002,,,,,,,500.00,GBP,,,,,,
+Market buy,2025-02-03 09:10:18,IE00BK5BR733,VFEG,Vanguard FTSE Emerging Markets (Acc),,TX004,3.0000000000,5500.00,GBX,1.00000000,,,165.00,GBP,,,,,,
+Market buy,2025-02-03 09:12:51,IE00B53HP851,CUKX,iShares Core FTSE 100 (Acc),,TX005,1.0000000000,15000.00,GBX,1.00000000,,,150.00,GBP,,,,,,
+Market buy,2025-02-03 14:40:30,US67066G1040,NVDA,NVIDIA,,TX006,1.0000000000,120.00,USD,1.24000000,,,96.77,GBP,,,,,0.15,GBP
+Dividend (Dividend),2025-02-14 10:00:00,US0378331005,AAPL,Apple,,DIV001,0.6000000000,0.25,USD,,,,0.12,GBP,0.02,USD,,,,
+Market sell,2025-03-10 15:02:44,US67066G1040,NVDA,NVIDIA,,TX007,0.5000000000,110.00,USD,1.29000000,-5.75,GBP,42.64,GBP,,,,,0.06,GBP
+Withdrawal,2025-03-20 12:00:00,,,,,WD001,,,,,,,-50.00,GBP,,,,,,
+Market buy,2025-04-01 09:03:05,IE00BK5BQT80,VWRP,Vanguard FTSE All-World (Acc),,TX008,1.5000000000,10800.00,GBX,1.00000000,,,162.00,GBP,,,,,,

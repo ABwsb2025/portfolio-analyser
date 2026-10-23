@@ -1,0 +1,16 @@
+# Personal data: never commit real brokerage exports or generated reports
+*.csv
+!examples/*.csv
+*.html
+portfolio_analysis_*.json
+
+# Secrets
+.env
+
+# Cache and Python artefacts
+.cache/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
